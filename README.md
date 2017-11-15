@@ -1,1 +1,1 @@
-"# NewAtlantaLiving" 
+http://newatlantaliving.com/
