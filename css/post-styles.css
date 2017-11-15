@@ -1,0 +1,10 @@
+@import url(NewAtlantaLiving.css);
+
+.page_wrapper{
+    min-height: 100% !important; 
+    margin-bottom: 60px;
+}
+
+.push{
+    min-height: 60px;
+}
